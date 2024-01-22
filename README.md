@@ -8,7 +8,61 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 • Python
 
 • R
+1
 
+1
+
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+11
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+
+1
+
+1
+1
+
+1
 # Excel Tips & Tricks
 
 ## Formulas
