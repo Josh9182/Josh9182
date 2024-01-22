@@ -5,9 +5,9 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
   
 - SQL
 
-• Python
+- Python
 
-• R
+- R
 
 # Excel Tips & Tricks
 
