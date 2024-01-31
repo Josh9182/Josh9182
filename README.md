@@ -12,4 +12,3 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 # Excel Tips & Tricks
 
 ## Formulas
-#wwjww
