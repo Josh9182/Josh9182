@@ -24,16 +24,19 @@ Project Name  | Description   |  Topic
  ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 # Python 
+Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  ssssssss| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
  ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
  
 # R
+Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  ssssssss| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
  ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 #Tableau
+Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  ssssssss| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
  ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
