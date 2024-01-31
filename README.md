@@ -9,6 +9,8 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 
 - R
 
+- Tableau
+
 # Excel Tips & Tricks
 
 ## Formulas
