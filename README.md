@@ -14,8 +14,8 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 # Excel Tips & Tricks
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
- | Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
-  | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
+ ssssssss| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
+ ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 
 ## Formulas
