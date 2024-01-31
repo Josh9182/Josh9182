@@ -3,11 +3,11 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 # Table of Contents
 * [Excel Tips & Tricks](#Excel-Tips-&-Tricks)
   
-* SQL
+* [SQL](#SQL)
 
-* Python
+* [Python](#Python)
 
-* R
+* [R](#R)
 
 * [Tableau](#Tableau)
 
