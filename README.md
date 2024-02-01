@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 ## Excel Tips & Tricks
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
- [Excel]([https://github.com/Josh9182/Portfolio-Projects](https://github.com/Josh9182/Excel-Tips-and-Tricks/blob/main/Excel-Tips-and-Tricks))| ssssssss  | ssssssss
+ [Excel]([https://github.com/Josh9182/Portfolio-Projects](https://github.com/Josh9182/Excel-Tips-and-Tricks/blob/main/Excel-Tips-and-Tricks)| ssssssss  | ssssssss
  ssssssss | ssssssss | ssssssss
 
 ## SQL
