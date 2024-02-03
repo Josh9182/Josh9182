@@ -1,7 +1,7 @@
 # **Hey! I'm Josh!**
 Welcome to my data portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data anlytics.
 # Table of Contents
-* [Excel Tips & Tricks](#Excel-Tips-&-Tricks)
+* [Excel](#Excel-Tips-&-Tricks)
   
 * [SQL](#SQL)
 
