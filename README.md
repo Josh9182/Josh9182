@@ -15,7 +15,6 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  [Excel Tips and Tricks](https://github.com/Josh9182/Excel-Tips-and-Tricks)| Wrote Excel functions that assist with expediting the data analysis process. | data cleaning, advanced charting, and data formating.
- ssssssss | ssssssss | ssssssss
 
 ## SQL
 Project Name  | Description   |  Topic
