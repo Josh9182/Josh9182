@@ -20,7 +20,7 @@ Project Name  | Description   |  Topic
 ## SQL
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Analyzing Customer Database](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio)| Wrote SQL queries to answer mock stakeholder questions about a variety of cryptocurrency financial data | data manipulation, importing and cleaning data
+[Analyzing Customer Database](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio)| Wrote SQL queries to answer mock stakeholder questions about a variety of selfmade customer database personal and financial data | data crafting, manipulation, importing and cleaning.
 ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 ## Python 
