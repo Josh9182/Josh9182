@@ -20,7 +20,7 @@ Project Name  | Description   |  Topic
 ## SQL
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
- ssssssss| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
+[Analyzing Cryptocurrency Statistics](https://github.com/Josh9182/SQL-Projects/tree/main/Analyzing_Cryptocurrency_Statistics)| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
  ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 ## Python 
