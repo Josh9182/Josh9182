@@ -20,8 +20,8 @@ Project Name  | Description   |  Topic
 ## SQL
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Analyzing Cryptocurrency Statistics](https://github.com/Josh9182/SQL-Projects/tree/main/Analyzing_Cryptocurrency_Statistics)| Wrote SQL queries to answer interesting questions about international debt data from The World Bank  | data manipulation, importing and cleaning data
- ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
+[Analyzing Cryptocurrency Statistics](https://github.com/Josh9182/SQL-Projects/tree/main/Analyzing_Cryptocurrency_Statistics)| Wrote SQL queries to answer mock stakeholder questions about a variety of cryptocurrency financial data | data manipulation, importing and cleaning data
+ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
 
 ## Python 
 Project Name  | Description   |  Topic
