@@ -1,5 +1,5 @@
 # **Hey! I'm Josh!**
-Welcome to my data portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data anlytics.
+Welcome to my data portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data analytics.
 # Table of Contents
 * [Excel](#Excel-Tips--Tricks)
   
@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  [Excel Tips and Tricks](https://github.com/Josh9182/Excel-Tips-and-Tricks)| Wrote Excel functions that assist with expediting the data analysis process. | data cleaning, advanced charting, and data formatting.
-[Adidas Dashboard](https://onedrive.live.com/embed?resid=E7F4C2A84C0D68A6%213013&authkey=!APgJWLLcjliw_b8&em=2) | Used the Adidas American branch's financial records to create a dashboard highlighting key information | dashboard creation, charting, adjustable pivot charts & tables, formatting. 
+[Adidas Dashboard](https://onedrive.live.com/embed?resid=E7F4C2A84C0D68A6%213013&authkey=!APgJWLLcjliw_b8&em=2) | Used the Adidas American branch's financial records to create a dashboard highlighting key information ***Due to Microsoft 365, the region chart is unavailable. Please feel free to download the spreadsheet above to see the desired format*** | dashboard creation, charting, adjustable pivot charts & tables, formatting. 
 
 ## SQL
 Project Name  | Description   |  Topic
