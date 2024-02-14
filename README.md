@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  [Excel Tips and Tricks](https://github.com/Josh9182/Excel-Tips-and-Tricks)| Wrote Excel functions that assist with expediting the data analysis process. | data cleaning, advanced charting, and data formating.
-[Adidas Dashboard]() | Used the Adidas American branch's financial records to create a dashboard highlighting key information | dashboard creation, charting, adjustable pivot charts & tables, formatting. 
+[Adidas Dashboard](https://1drv.ms/x/s!AqZoDUyowvTnl0UR1S347qnv-JEp?e=9ZA2cb) | Used the Adidas American branch's financial records to create a dashboard highlighting key information | dashboard creation, charting, adjustable pivot charts & tables, formatting. 
 
 ## SQL
 Project Name  | Description   |  Topic
