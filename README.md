@@ -20,8 +20,8 @@ Project Name  | Description   |  Topic
 ## SQL
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Analyzing Customer Database](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio)| Wrote SQL queries to answer mock stakeholder questions about a variety of selfmade customer database personal and financial data | data crafting, manipulation, importing and cleaning.
-ssssssss | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins
+[Analyzing Consumer Data](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio) | Using a self created database of 1000 rows of fictional consumer data, it will be analyzed, cleaned, and used to answer stakeholder questions from "Aurora Technologies"| complex SQL queries, database creation, database analyzation, joins, case-end
+[Dinosaur Data Analysis](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio-Dinosaur) | Utilizing premade data found through Kaggle.com, it will be analyzed, isolated, and manipulated to simulate a paleontological teams findings. | complex SQL queries, database analyzation, joins, case-end.
 
 ## Python 
 Project Name  | Description   |  Topic
