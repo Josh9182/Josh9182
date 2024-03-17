@@ -1,15 +1,11 @@
 # **Hey! I'm Josh!**
 Welcome to my data portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data analytics.
 # Table of Contents
+
+
 * [Excel](#Excel-Tips--Tricks)
   
 * [SQL](#SQL)
-
-* [Python](#Python)
-
-* [R](#R)
-
-* [Tableau](#Tableau)
 
 ## Excel Tips & Tricks
 Project Name  | Description   |  Topic
