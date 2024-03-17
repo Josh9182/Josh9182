@@ -3,11 +3,11 @@ Welcome to my data portfolio! Here I exhibit tips and tricks, as well as persona
 # Table of Contents
 
 
-* [Excel](#Excel-Tips--Tricks)
+* [Excel](#Excel)
   
 * [SQL](#SQL)
 
-## Excel Tips & Tricks
+## Excel
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
  [Excel Tips and Tricks](https://github.com/Josh9182/Excel-Tips-and-Tricks)| Wrote Excel functions that assist with expediting the data analysis process. | data cleaning, advanced charting, and data formatting.
