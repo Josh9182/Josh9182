@@ -7,6 +7,8 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
   
 * [SQL](#SQL)
 
+* [Python](#Python)
+
 ## Excel
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
