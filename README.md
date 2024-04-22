@@ -18,3 +18,9 @@ Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
 [Analyzing Consumer Data](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio) | Using a self created database of 1000 rows of fictional consumer data, it will be analyzed, cleaned, and used to answer stakeholder questions from "Aurora Technologies"| complex SQL queries, database creation, database analyzation, joins, case-end
 [Dinosaur Data Analysis](https://github.com/Josh9182/SQL-Projects/tree/main/SQL-Portfolio-Dinosaur) | Utilizing premade data found through Kaggle.com, it will be analyzed, isolated, and manipulated to simulate a paleontological teams findings. | complex SQL queries, database analyzation, inner joins, case-end, window functions.
+
+## Python
+Project Name  | Description   |  Topic
+------------- | ------------- | ------------------
+|  | |
+| | |
