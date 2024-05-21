@@ -24,5 +24,5 @@ Project Name  | Description   |  Topic
 ## Python
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Analzying Social Media User Data](https://github.com/Josh9182/Python-Projects/tree/main/Social%20Media%20Database) | Using a custom made JSON file with 50 different users, the data will be put through Python's Pandas, NumPy, SciPy, and Plotly libraries to form a detailed analysis dissecting and visualizing different media's user data. | JSON, Python, Pandas, NumPy, SciPy, Plotly, database analyzation, debugging code
+[Analzying Social Media User Data](https://github.com/Josh9182/Python-Projects/tree/main/Social%20Media%20Database) | Using a custom made JSON file with 50 different users, the data will be put through Python's Pandas, NumPy, SciPy, and Plotly libraries to form a detailed analysis dissecting and visualizing different media's user data. | JSON, Python, Pandas, NumPy, SciPy, Matplotlib, database analyzation, debugging code
  |  |
