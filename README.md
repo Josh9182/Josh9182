@@ -9,6 +9,8 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [Python](#Python)
 
+* [R](#R)
+
 ## Excel
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
