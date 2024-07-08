@@ -41,6 +41,6 @@ Project Name  | Description   |  Topic
 ## Tableau
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Medical Tech Financial Analysis](https://github.com/Josh9182/Tableau-Projects)| Using Excel to craft a custom made spreadsheet in regard to OptoRelief and its financial information, it will be visualized in Tableau. | Excel, VBA, Tableau
+[Medical Tech Financial Analysis](https://github.com/Josh9182/Tableau-Projects/tree/main/Medical%20Tech)| Using Excel to craft a custom made spreadsheet in regard to OptoRelief and its financial information, it will be visualized in Tableau. | Excel, VBA, Tableau
 |  |
 
