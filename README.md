@@ -35,10 +35,6 @@ Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
 [Customer Sales and Product Analysis](https://github.com/Josh9182/R-Projects/tree/main/Customer%20Sales) | Using Excel to craft a custom made database of unorganized data between customer sales and product info from ChemTech, a chemical supply company. The data will be manipulated and cleaned in SQL, while EDA tasks and visualization will be done in R to report findings. | Excel, Creating dataframes, functions, SQL, data manipulation, transactions, CTE's, R, visualization, dplyr, ggplot2, scales, lubridate
 [Video Game Product Health and Feedback Analysis](https://github.com/Josh9182/R-Projects/tree/main/Game%20Information) | Using two custom created JSON files housing player information and product health, the files will be normalized, manipulated, organized, analyzed, and visualized solely in R via vanilla and multiple libraries. | JSON file creation, analysis, visualization, R, JSONlite, data.table, ggplot2, stringr, scales, lubridate, dplyr, tidyverse, tidytext.
-
-## Power BI
-Project Name  | Description   |  Topic
-------------- | ------------- | ------------------
-[Medical Tech Financial Analysis](https://github.com/Josh9182/Tableau-Projects/tree/main/Medical%20Tech)| Using Excel to craft a custom made spreadsheet in regard to OptoRelief and its financial information, it will be visualized in Tableau. | Excel, VBA, Tableau
+[Medical Tech Financial Analysis](https://github.com/Josh9182/Tableau-Projects/tree/main/Medical%20Tech)| Using Excel to craft a custom made spreadsheet in regard to OptoRelief and its financial information, it will be visualized in Power BI. | Excel, VBA, Power BI
 |  |
 
