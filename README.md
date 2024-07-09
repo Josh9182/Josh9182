@@ -11,7 +11,7 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [R](#R)
 
-* [Tableau](#Tableau)
+* [Power BI](#Power-BI)
 
 ## Excel
 Project Name  | Description   |  Topic
