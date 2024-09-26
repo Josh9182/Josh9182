@@ -1,5 +1,5 @@
 # **Hey! I'm Josh!**
-Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data analytics as well as full stack developing.
+Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as personal projects I feel passionately displays my interest in data analytics as well as full stack developement.
 # Table of Contents
 
 
