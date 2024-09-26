@@ -26,8 +26,10 @@ Project Name  | Description   |  Topic
 ## Python
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Analzying Social Media User Data](https://github.com/Josh9182/Python-Projects/tree/main/Social%20Media%20Database) | Using a custom made JSON file with 50 different users, the data will be put through Python's Pandas, SciPy, and Maplotlib libraries to form a detailed analysis dissecting and visualizing different media's user data. | JSON creation, Python, Pandas, SciPy, Matplotlib, database analyzation, debugging code.
-[Cheat Sheet Functions](https://github.com/Josh9182/Python-Projects/tree/main/Cheat%20Sheet%20Functions) | Custom made functions for the purpose of making coding just a little bit easier! | Pandas, Numpy, function creation, data analytics, encoding.
+[Analzying Social Media User Data](https://github.com/Josh9182/Python-Projects/tree/main/Social%20Media%20Database) | Using a custom made JSON file with 50 different users, the data will be put through Python's Pandas, SciPy, and Maplotlib libraries to form a detailed analysis dissecting and visualizing different media's user data. | JSON creation, Python, Pandas, SciPy, Matplotlib, database analyzation, debugging code
+[Cheat Sheet Functions](https://github.com/Josh9182/Python-Projects/tree/main/Cheat%20Sheet%20Functions) | Custom made functions for the purpose of making coding just a little bit easier! | Pandas, Numpy, function creation, data analytics, encoding. |
+[SQLAlchemy Projects](https://github.com/Josh9182/Python-Projects/tree/main/SQLAlchemy) | Python code displaying data analytics via Pandas & SQLAlchemy | Python, Pandas, SQLAlchemy.
+
 
 ## R
 Project Name  | Description   |  Topic
