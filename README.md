@@ -43,4 +43,4 @@ Project Name  | Description   |  Topic
 ## JavaScript
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Automation Software Frontend]() | The frontend will be divided into several parts. To start, HTML will be utilized to create the web structure and CSS w/SASS to customize structure elements. Using the React framework, base / advanced UI elements via JSX will be created in combination with TypeScript's readability. Jest will be used, necessary for its "expect" & "toBe" functions. Lastly Cypress will be included for time travel debugging such as "get" and "should". | HTML, CSS, SASS, JavaScript, React, TypeScript, Jest, Cypress
+[Automation Software Frontend]() | The frontend will be divided into several parts. To start, HTML will be utilized to create the web structure and CSS w/SASS to customize structure elements. Using the React framework, base / advanced UI elements via JSX will be created in combination with TypeScript's readability. Jest will be used, necessary for its "expect" & "toBe" functions. Lastly Cypress will be included for DOM debugging. | HTML, CSS, SASS, JavaScript, React, TypeScript, Jest, Cypress
