@@ -13,7 +13,7 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [JavaScript](#JavaScript)
 
-* [C#](#C#)
+* [C#](#C-Sharp)
 
 ## Excel
 Project Name  | Description   |  Topic
@@ -49,7 +49,7 @@ Project Name  | Description   |  Topic
 [Automation Software Front-End](https://github.com/Josh9182/JavaScript-Projects/tree/main/Automation%20Software%20UI)|**#FRONT-END ONLY#** Web automation software written in JavaScript and C# to perform various tasks, written as a template. The UI will be built and previewed on Vite. HTML will be utilized to create the software structure and CSS with SASS to customize structure elements. Using the React framework, base / advanced UI elements via JSX will be created in combination with TypeScript's readability. | HTML, CSS, SASS, JavaScript, React, TypeScript
 [Automation Software Front-End Debugging](https://github.com/Josh9182/JavaScript-Projects/tree/main/Automation%20Software%20Debugging) | Utilizing the previous project's front end source code, JavaScript's Jest and Cypress will be used to debug and perform a multitude of testing types. | JavaScript, TypeScript, Jest, Cypress
 
-## C#
+## C-Sharp
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
 |  |  |
