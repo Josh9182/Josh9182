@@ -13,7 +13,7 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [JavaScript](#JavaScript)
 
-* [C#](#calls-front-end-api)
+* [C#](#perform-selenium-automation)
 
 ## Excel
 Project Name  | Description   |  Topic
