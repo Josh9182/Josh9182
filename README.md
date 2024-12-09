@@ -13,7 +13,7 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [JavaScript](#JavaScript)
 
-* [C#](#Automation-Software-Back-End)
+* [C#](#calls-front-end-api)
 
 ## Excel
 Project Name  | Description   |  Topic
@@ -52,4 +52,4 @@ Project Name  | Description   |  Topic
 ## C#
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Automation Software Back-End]()|  |  |
+[Automation Software Back-End]()| C# back-end of web automation software written in JavaScript, calls front-end API and accesses parsed JSON/CSV data to iterate and perform Selenium automation tasks. | C#, System, Selenium |
