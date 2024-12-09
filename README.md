@@ -13,6 +13,8 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [JavaScript](#JavaScript)
 
+* [C#](#C#)
+
 ## Excel
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
