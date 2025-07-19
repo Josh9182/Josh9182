@@ -11,10 +11,6 @@ Welcome to my programming portfolio! Here I exhibit tips and tricks, as well as 
 
 * [R](#R)
 
-* [JavaScript](#JavaScript)
-
-* [C#](#C)
-
 ## Excel
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
@@ -42,13 +38,3 @@ Project Name  | Description   |  Topic
 [Customer Sales and Product Analysis](https://github.com/Josh9182/R-Projects/tree/main/Customer%20Sales) | Using Excel to craft a custom made database of unorganized data between customer sales and product info from ChemTech, a chemical supply company. The data will be manipulated and cleaned in SQL, while EDA tasks and visualization will be done in R to report findings. | Excel, Creating dataframes, functions, SQL, data manipulation, transactions, CTE's, R, visualization, dplyr, ggplot2, scales, lubridate
 [Video Game Product Health and Feedback Analysis](https://github.com/Josh9182/R-Projects/tree/main/Game%20Information) | Using two custom created JSON files housing player information and product health, the files will be normalized, manipulated, organized, analyzed, and visualized solely in R via vanilla and multiple libraries. | JSON file creation, analysis, visualization, R, JSONlite, data.table, ggplot2, stringr, scales, lubridate, dplyr, tidyverse, tidytext
 [R Shiny Visualization Apps](https://github.com/Josh9182/R-Projects/tree/main/Shiny%20Applications)| A collection of R Shiny applications able to handle data analysis, visualization, dynamic ui changes, and mulitple libraries. | R, Shiny, HTML, CSS, JavaScript
-
-## JavaScript
-Project Name  | Description   |  Topic
-------------- | ------------- | ------------------
-[Automation Software Front-End](https://github.com/Josh9182/JavaScript-Projects/tree/main/Automation%20Software%20UI)|**#FRONT-END ONLY#** Web automation software written in JavaScript and C# to perform various tasks, written as a template. The UI will be built and previewed on Vite. HTML will be utilized to create the software structure and CSS with SASS to customize structure elements. Using the React framework, base / advanced UI elements via JSX will be created in combination with TypeScript's readability. | HTML, CSS, SASS, JavaScript, React, TypeScript
-
-## C#
-Project Name  | Description   |  Topic
-------------- | ------------- | ------------------
-[Automation Software Back-End](https://github.com/Josh9182/C-Sharp-Projects/tree/main/Automation%20Software%20Back-end)|**#WORK IN PROGRESS#** C# back-end of web automation software written in JavaScript, calls front-end API and accesses parsed JSON/CSV data to iterate and perform Selenium automation tasks. | C#, System, Selenium |
